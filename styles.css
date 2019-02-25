@@ -1,0 +1,39 @@
+/*
+	Riley Kisling
+	2/22/2019
+	Diet Water
+*/
+@charset "utf-8";
+
+body {
+	background-color:ivory;
+}
+
+article, h1, footer {
+	color:Grey;
+}
+
+#main {
+	padding-left:15 px
+	padding-right:15 px
+}
+
+#contact {
+	padding-left:auto;
+	padding-right:auto;
+	padding-top:0;
+	padding-bottom:0;
+	width:60%;
+}
+
+.link:hover {
+	color:white;
+}
+
+.link:visited {
+	color:green;
+}
+
+.link:focus {
+	color:red;
+}
