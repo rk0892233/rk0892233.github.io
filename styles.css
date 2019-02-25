@@ -19,8 +19,8 @@ article, h1, footer {
 }
 
 #contact {
-	padding-left:auto;
-	padding-right:auto;
+	margin-left:auto;
+	margin-right:auto;
 	padding-top:0;
 	padding-bottom:0;
 	width:60%;
